@@ -1,2 +1,2 @@
-# HW1-basics-of-programming-
+# HW1_PYTHON
 hw
